@@ -1,0 +1,30 @@
+@font-face {
+    font-family: MontserratBold;
+    src: url(assets/fonts/Montserrat/static/Montserrat-Bold.ttf);
+}
+
+@font-face {
+    font-family: MontserratRegular;
+    src: url(assets/fonts/Montserrat/static/Montserrat-Regular.ttf);
+}
+
+html{
+    font-family: MontserratRegular;
+}
+
+body{
+    margin: 0;
+    background-color: #efefef;
+}
+
+header{
+    background-color: #364552;
+    color: white;
+    padding: 3rem;
+
+}
+
+header h1{
+    font-size: 4rem;
+    text-align: center;
+}
